@@ -203,12 +203,12 @@ START → reason → (act → reason)* → END
 
 ---
 
-#  Part 2: CrewAI ReAct Agent
+# Part 2: CrewAI ReAct Agent
 
 The second part uses **CrewAI** to create a ReAct-based Math Assistant Agent.
 
 The CrewAI implementation contains:
-
+ 
 ```text
 CrewAI Project
      |
@@ -281,7 +281,7 @@ This means the task is executed in a sequential workflow.
 ---
 
 
-# 🔐 API Key
+# API Key
 
 This project uses a **Groq API key**.
 
@@ -295,7 +295,7 @@ os.environ["GROQ_API_KEY"]
 
 When running the notebook, provide your own API key securely.
 
-### ⚠️ Important
+### Important
 
 Never commit:
 
@@ -307,7 +307,7 @@ to a public GitHub repository.
 
 ---
 
-#  Project Structure
+# Project Structure
 
 Recommended repository structure:
 
@@ -321,7 +321,7 @@ ai-agents-langgraph-crewai/
 
 ---
 
-# ▶️ How to Run
+# How to Run
 
 ## 1. Clone the repository
 
@@ -357,7 +357,7 @@ Run the cells from top to bottom.
 
 ---
 
-#  Expected Result
+# Expected Result
 
 For the example question:
 
@@ -381,7 +381,7 @@ Final Answer = 12
 
 ---
 
-#  Future Improvements
+# Future Improvements
 
 This project can be extended by adding more tools, such as:
 
@@ -410,7 +410,7 @@ This would allow the system to solve more complex real-world problems.
 
 ---
 
-## 👨‍💻 Project
+## Project
 
 **Project Name:**
 **ReAct AI Agents Using LangGraph and CrewAI**
