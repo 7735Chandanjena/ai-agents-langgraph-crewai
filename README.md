@@ -381,40 +381,10 @@ Final Answer = 12
 
 ---
 
-# Future Improvements
-
-This project can be extended by adding more tools, such as:
-
-* Web Search Tool
-* Weather Tool
-* Database Tool
-* Python Code Execution Tool
-* File Reading Tool
-* Calculator with more mathematical operations
-
-Multiple specialized Agents could also be added to the CrewAI implementation.
-
-For example:
-
-```text
-                    Crew
-                     |
-        ┌────────────┼────────────┐
-        ↓            ↓            ↓
-   Math Agent   Research Agent  Writer Agent
-        |            |            |
- Calculator      Web Search     Writing Tool
-```
-
-This would allow the system to solve more complex real-world problems.
-
----
-
 ## Project
 
 **Project Name:**
 **ReAct AI Agents Using LangGraph and CrewAI**
 
-**Focus:**
-AI Agents • ReAct • LangGraph • CrewAI • Groq • Tool Calling • Multi-Step Reasoning
+
 
